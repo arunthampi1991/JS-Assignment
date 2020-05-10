@@ -1,2 +1,5 @@
 # JS-Assignment-
-10 Question on JavaScript
+10 Questions on JavaScript
+
+Check1
+
